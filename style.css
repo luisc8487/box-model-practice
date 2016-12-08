@@ -8,19 +8,37 @@
 
 #title {
     background: yellow;
-    /*add CSS here*/
+    text-align: center;
+    margin: 10px 10px 10px 10px;
+    display: inline-block;
+    width:75%;
+    /*margin:auto;*/
+    padding:10px 10px 10px 10px;
+    content: 10px;/*add CSS here*/
     
 }
 
 #subtitle {
+    width:75%;
     background: black;
+    margin: auto;
+    padding:10px 10px 10px 10px;
+    display: inline-block;
     color: white;
     /*add CSS here*/
     
 }
 
 .topic {
+    text-align: center;
+    width:5%;
     background: lightgray;
+    display: inline-block;
+    border:50px 70px 10px 70px;
+    margin-left:20%;
+    margin-right:1%;
+    
+    /*margin:auto*/
     /*add CSS here*/
     
 }
